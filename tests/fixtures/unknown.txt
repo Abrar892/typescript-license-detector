@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog. This is a perfectly ordinary
+piece of prose about nothing in particular: baking bread, walking the dog,
+and the weather on Tuesday. It contains no legal language, no grants of
+permission, and no mention of software, copyright, distribution, or
+warranties of any kind whatsoever.
